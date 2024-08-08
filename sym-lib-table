@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FRB_switches")(type "KiCad")(uri "${KIPRJMOD}/FRB_switches.kicad_sym")(options "")(descr ""))
+)

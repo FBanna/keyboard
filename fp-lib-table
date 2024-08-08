@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FRB_switches")(type "KiCad")(uri "${KIPRJMOD}/FRB_switches.pretty")(options "")(descr ""))
+  (lib (name "keyswitches.pretty-2")(type "KiCad")(uri "C:/Users/Findlay/Downloads/keyswitches.pretty-2.pretty")(options "")(descr ""))
+)
